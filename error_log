@@ -1,0 +1,12 @@
+[15-Sep-2015 10:09:09 UTC] PHP Warning:  require(lib/Stripe.php): failed to open stream: No such file or directory in /home/brandbits/public_html/stripe/test.php on line 4
+[15-Sep-2015 10:09:09 UTC] PHP Warning:  require(lib/Stripe.php): failed to open stream: No such file or directory in /home/brandbits/public_html/stripe/test.php on line 4
+[15-Sep-2015 10:09:09 UTC] PHP Fatal error:  require(): Failed opening required 'lib/Stripe.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/brandbits/public_html/stripe/test.php on line 4
+[16-Sep-2015 08:28:35 UTC] PHP Notice:  Undefined variable: result in /home/brandbits/public_html/stripe/test.php on line 21
+[16-Sep-2015 08:37:39 UTC] PHP Notice:  Trying to get property of non-object in /home/brandbits/public_html/stripe/test.php on line 21
+[16-Sep-2015 08:39:14 UTC] PHP Notice:  Trying to get property of non-object in /home/brandbits/public_html/stripe/test.php on line 21
+[16-Sep-2015 08:39:59 UTC] PHP Notice:  Trying to get property of non-object in /home/brandbits/public_html/stripe/test.php on line 17
+[16-Sep-2015 08:40:01 UTC] PHP Notice:  Trying to get property of non-object in /home/brandbits/public_html/stripe/test.php on line 17
+[16-Sep-2015 08:40:02 UTC] PHP Notice:  Trying to get property of non-object in /home/brandbits/public_html/stripe/test.php on line 17
+[16-Sep-2015 08:41:57 UTC] PHP Notice:  Trying to get property of non-object in /home/brandbits/public_html/stripe/test.php on line 17
+[16-Sep-2015 08:50:44 UTC] PHP Notice:  Trying to get property of non-object in /home/brandbits/public_html/stripe/test.php on line 17
+[16-Sep-2015 08:55:07 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/brandbits/public_html/stripe/test.php on line 15
